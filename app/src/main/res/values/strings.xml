@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">cocktail</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="something_went_wrong">Something went wrong</string>
+    <string name="cannot_connect_to_server">server is not reachable\n</string>
+    <string name="let_s_eat_nquality_food">let\'s Eat \nQuality Food</string>
+    <string name="search">Search...</string>
+    <string name="restuarants_near_me">Restuarants Near me</string>
+    <string name="cocktail_details_name">Name : %1$s</string>
+    <string name="cocktail_details_instruction">Instruction : %1$s</string>
+    <string name="cocktail_details_measure">measure : %1$s</string>
+    <string name="cocktail_details_category">Category : %1$s</string>
+</resources>
